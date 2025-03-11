@@ -1,0 +1,21 @@
+{
+  "name": "repo-with-all-dependencies",
+  "version": "1.0.0",
+  "dependencies": {
+    "repo-with-two-dependencies": "^1.0.0",
+    "repo-with-one-dependency": "^1.0.0",
+    "repo-with-no-dependencies": "^1.0.0",
+    "repo-with-also-one-dependency": "^1.0.0",
+  }
+  "devDependencies": {
+    "repo-with-two-dependencies": "^1.0.0",
+    "repo-with-one-dependency": "^1.0.0",
+    "repo-with-no-dependencies": "^1.0.0",
+    "repo-with-also-one-dependency": "^1.0.0",
+    "prettier": "3.3.3",
+    "vite": "5.3.5",
+    "@builder.io/qwik": "^1.12.0",
+    "eslint-plugin-qwik": "^1.12.0",
+    "wrangler": "^3.0.0",
+  }
+}
