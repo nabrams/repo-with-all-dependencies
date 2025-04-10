@@ -6,6 +6,7 @@
     "repo-with-one-dependency": "^1.0.0",
     "repo-with-no-dependencies": "^1.0.0",
     "repo-with-also-one-dependency": "^1.0.0",
+    "design-system-repo": "8.0.5",
   }
   "devDependencies": {
     "repo-with-two-dependencies": "^1.0.0",
