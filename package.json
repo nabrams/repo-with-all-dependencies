@@ -6,7 +6,7 @@
     "repo-with-one-dependency": "^1.0.0",
     "repo-with-no-dependencies": "^1.0.0",
     "repo-with-also-one-dependency": "^1.0.0",
-    "design-system-repo": "8.0.5",
+    "design-system-repo": "8.0.5"
   }
   "devDependencies": {
     "repo-with-two-dependencies": "^1.0.0",
@@ -17,6 +17,8 @@
     "vite": "5.3.5",
     "@builder.io/qwik": "^1.12.0",
     "eslint-plugin-qwik": "^1.12.0",
-    "wrangler": "^3.0.0",
+    "wrangler": "^3.0.0"
   }
 }
+
+  
